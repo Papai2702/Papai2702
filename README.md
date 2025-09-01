@@ -1,4 +1,6 @@
+<div align="center">
 <img src="assets/introgif.gif" alt="Intro gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Premanshu Maity</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
