@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Premanshu Maity</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-
-- 🔭 I’m currently working on **several projects**
-
-- 🌱 I’m currently learning **SQL, MongoDB and React Native**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **officialpremanshumaity@gmail.com**
+<table>
+<tr>
+<td width="60%">
+  
+### 🔭 I'm currently working on *several Projects*.<br>  
+### 🌱 I'm currently learning *SQL, MongoDB and React Native*.
+### 💬 Ask me about *React*
+### 📫 How to reach me *officialpremanshumaity@gmail.com*
 
 <img src="https://komarev.com/ghpvc/?username=papai2702" width="125" alt="views" />
+
+</td>
+<td width="40%" align="center">
+
+<img src="assets/aboutgif.gif" alt="About Gif" width=350px />
+
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
