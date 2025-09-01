@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/introgif.gif" alt="Intro gif" />
+<img src="assets/introgif.gif" alt="Intro gif" width= 500px/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Premanshu Maity</h1>
